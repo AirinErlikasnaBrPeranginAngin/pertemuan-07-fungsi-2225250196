@@ -44,3 +44,7 @@ Melalui tugas ini, saya belajar menggunakan fungsi, parameter, return value, ser
 7. Refleksi
 
 Saya memahami bahwa fungsi membantu membuat program lebih terstruktur dan memudahkan penggunaan kembali kode. Saya juga belajar menguji program melalui Terminal di Visual Studio Code.
+
+8. Pengembangan Selanjutnya
+
+Program dapat dikembangkan dengan menambahkan fitur perhitungan matematika lainnya serta pengujian untuk berbagai jenis input.
