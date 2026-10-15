@@ -1,0 +1,43 @@
+Kuis Formatif Pertemuan 07
+
+Mata Kuliah: Algoritma dan Pemrograman
+
+1. Apa fungsi kata kunci "def" dalam Python?
+
+Kata kunci "def" digunakan untuk membuat atau mendefinisikan sebuah fungsi dalam Python.
+
+2. Apa perbedaan parameter dan argumen?
+
+Parameter adalah variabel yang ditulis pada definisi fungsi, sedangkan argumen adalah nilai yang diberikan ketika fungsi dipanggil.
+
+3. Kapan "return" lebih tepat daripada "print"?
+
+"return" digunakan ketika hasil fungsi perlu dikembalikan agar dapat disimpan ke variabel atau digunakan dalam perhitungan lain. Sementara itu, "print" digunakan untuk menampilkan informasi ke layar.
+
+4. Apa nilai variabel "x" pada kode "x = kuadrat(4)" jika kuadrat mengembalikan "x*x"?
+
+Nilai "x" adalah 16, karena fungsi menghitung (4 \times 4 = 16).
+
+5. Mengapa variabel lokal sebaiknya tidak bergantung pada perubahan dari luar fungsi?
+
+Agar fungsi lebih mandiri, mudah dipahami, dan mengurangi kemungkinan kesalahan akibat perubahan variabel di luar fungsi.
+
+6. Apa yang terjadi jika fungsi memerlukan dua parameter tetapi hanya diberi satu argumen?
+
+Python akan menghasilkan "TypeError" karena jumlah argumen yang diberikan tidak sesuai dengan jumlah parameter yang diperlukan.
+
+7. Bagaimana cara memakai nilai "return" dalam perhitungan lanjutan?
+
+Nilai "return" dapat disimpan dalam variabel atau langsung digunakan dalam operasi lain. Contohnya, "hasil = luas_persegi_panjang(8, 5)".
+
+8. Apa perbedaan Step Into dan Step Over saat debugging fungsi di VS Code?
+
+Step Into digunakan untuk masuk ke dalam fungsi yang dipanggil dan memeriksa langkah-langkah di dalamnya. Step Over menjalankan pemanggilan fungsi sebagai satu langkah tanpa masuk ke dalam fungsi tersebut.
+
+9. Mengapa modularisasi membantu pengujian program?
+
+Karena program dibagi menjadi fungsi-fungsi kecil sehingga setiap bagian dapat diuji secara terpisah dan kesalahan lebih mudah ditemukan.
+
+10. Perintah Git apa yang mengirim commit lokal ke GitHub setelah remote sudah terhubung?
+
+Perintahnya adalah "git push origin main".
